@@ -2,7 +2,7 @@
     "$schema": "http://json.schemastore.org/template",
     "author": "Yiannis Kryfos (yianniskryfos@yahoo.com)",
     "classifications": [ "Console" ], 
-    "name": "Console Application with extra features such as Dependency Injection and EF Core.",
+    "name": "Console Application with Dependency Injection and EF Core",
     "identity": "Advanced.Console.Boilerplate.CSharp.YKryfos",         
     "shortName": "console-advanced",                   
     "tags": {
